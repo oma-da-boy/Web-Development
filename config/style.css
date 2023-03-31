@@ -1,0 +1,32 @@
+header > h1 {
+    border-bottom: 1px dashed black;
+    font-style: italic;
+}
+
+footer > p {
+    border-top: 1px dashed black;
+    font-style: italic;
+}
+
+table {
+    border-spacing: 5px;
+    width: 530px;
+}
+
+th {
+    color: #fff;
+    background: #000;
+    text-align: left;
+}
+
+td {
+    border-bottom: 1px solid black;
+    padding: 3px;
+    background: #F0F0F0;
+    text-align: left;
+    vertical-align: top;
+}
+p #err-msg {
+    color: #F00;
+    font-weight: bold;
+}
